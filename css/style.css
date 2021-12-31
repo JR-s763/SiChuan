@@ -1,0 +1,23 @@
+#map{
+	width:550px;
+	height:559px;
+	border:2px black solid;
+	margin:0px;
+	float:left;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+#calender{
+	width:680px;
+	height:250px;
+	border:2px black solid;
+	margin:0px;
+	float:left;
+}
+#pie{
+	width:680px;
+	height:310px;
+	border:2px black solid;
+	margin:0px;
+	float:left;
+}
